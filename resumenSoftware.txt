@@ -1,0 +1,4 @@
+Ejemplos de software:
+- Software de código abierto.
+- Software de navegadores web.
+- Software de aplicaciones.

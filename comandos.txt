@@ -1,0 +1,56 @@
+Comandos utilizados en este exámen:
+- git init
+- git remote add origin
+- git remote -v
+- touch
+- mkdir
+- git add .
+- git status
+- git commit -m
+- git origin main
+- git branch
+- git checkout
+- cd ..
+- cd
+- git push origin feature
+- git mv
+- history
+
+
+Historial:
+   61  git init
+   62  git remote add origin https://github.com/jimena-exe/Checkpoint_Ago_18-JimenaAlvarez.git
+   63  git remote -v
+   64  touch main.js
+   65  touch index.html
+   66  git add .
+   67  git commit -m "commit 01 de Jimena Alvarez V"
+   68  git push origin main
+   69  git branch feature
+   70  git checkout feature
+   71  mkdir Hardware
+   72  mkdir Software
+   73  mkdir SeguridadInformatica
+   74  git checkout Hardware
+   75  cd Hardware
+   76  touch resumen.txt
+   77  cd ..
+   78  cd Software/
+   79  touch resumen.txt
+   80  cd ..
+   81  cd SeguridadInformatica/
+   82  touch resumen.txt
+   83  cd ..
+   84  git status
+   85  git add .
+   86  git commit -m "commit 02 de Jimena Alvarez V"
+   87  push origin main
+   88  push origin feature
+   89  git push origin feature
+   90  git status
+   91  git checkout main
+   92  git mv main.js resumenHardware.txt
+   93  git status
+   94  git mv index.html resumenSoftware.txt
+   95  touch comandos.txt
+   96  history
